@@ -8,8 +8,6 @@ We applied supervised machine learning techniques and compared two models:
 
 - Random Forest
 
-Our goal was to evaluate which model performs best for fraud detection.
-
 # Project Workflow
 
     - Data Cleaning – handled missing values, duplicates, and inconsistencies.
