@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load the pipeline
-with open("C:/Users/PC/ProjectsDataScience/rf_fraud_detection.pkl", "rb") as f:
+with open("rf_fraud_detection.pkl", "rb") as f:
     model = pickle.load(f)
 
 # App title
@@ -67,3 +67,4 @@ if submitted:
     # Show input summary
     with st.expander("🔍 View Submitted Details"):
         st.table(input_data)
+
