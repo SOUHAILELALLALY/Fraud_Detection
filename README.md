@@ -10,7 +10,7 @@ We applied supervised machine learning techniques and compared two models:
 
 # Project Workflow
 
-    - Data Cleaning – handled missing values, duplicates, and inconsistencies.
+    - Data Cleaning.
     
     - Exploratory Data Analysis (EDA) – visualized class imbalance and feature distributions.
     
